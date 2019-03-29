@@ -2,7 +2,7 @@
 
 #### Who I am
 
-I'm what you get when you cross a hippie education with a geeky mentality; someone curious about people and their relationship with technology. I have lived with Amazonian shamans and tried to grasp their use of flash drives ([I'm serious!] (hhttps://www.academia.edu/38627418/The_Shaman_and_the_Flash_Drive), and now I wish to code my way into the relationship between humans and machines. Ideally, I'd be working to finish this joke: "Two algorithms walk into the deep web..."
+I'm what you get when you cross a hippie education with a geeky mentality; someone curious about people and their relationship with technology. I have lived with Amazonian shamans and tried to grasp their use of flash drives ([I'm serious! (hhttps://www.academia.edu/38627418/The_Shaman_and_the_Flash_Drive)], and now I wish to code my way into the relationship between humans and machines. Ideally, I'd be working to finish this joke: "Two algorithms walk into the deep web..."
 
 ## Skills
 
