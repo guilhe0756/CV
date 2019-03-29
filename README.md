@@ -19,13 +19,15 @@ I firmly believe that communicating your ideas with clarity is paramount to anyt
 I have practiced communication skills while doing research – what anthropologists called fieldwork – and while working at universities. 
 
 - As a researcher, I have presented my work in several universities (including Oxford, Cambridge, UCL, and St. Andrews), sometimes talking for a couple of hours. It is challenging to maintain clarity while speaking for so long. 
-- As a lecturer, I have also led tutorials and seminars where I had to encourage a group of students to talk. Engaging people on a subject can be tough, but I thoroughly enjoyed this side of teaching (much more than giving lecture, to be honest). 
+- As a lecturer, I have also led tutorials and seminars where I had to encourage a group of students to talk. Engaging people on a subject can be tough, but I thoroughly enjoyed this side of teaching (much more than giving lecture, to be honest).
 – I once gave a 15 minute talk at the Brazilian National Prosecutor's Office about the situation of indigenous Amazonian groups in the face of environmental destruction and deforestation. People were really moved, some cried – which served me as a costant reminder of the power of words.
 - As a consultant, I have conducted interviews with scientists and the public about climate change as part of a researcher for the Frameworks Institute. Our task was to map the possible bridges and the common shortfalls in the communication of scientific work on climate change to a larger audience. This gave me the opportunity to see that making science public is almost as important doing it. 
 
 ### Language
 
-Thinking and practicing language is one of my favourite things. I have a good knowledge of languages spoken by vast amounts of people (Portugues, English, Spanish, and German) as well as of a language spoken by only 500 people in the world (Araweté). Looking at how programming languages are "spoken", I wonder why so many are written in English, and also which ones are not. 
+Thinking and practicing language is one of my favourite things. I have a good knowledge of languages spoken by vast amounts of people (Portugues, English, Spanish, and German) as well as of a language spoken by only 500 people in the world (Araweté). 
+
+At the moment, I'm starting to look at how programming languages are "spoken", and I wonder why so many are written in English. I also have an eye on languages not written in English. 
 
 ## Education
 
