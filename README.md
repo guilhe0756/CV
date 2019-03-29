@@ -10,7 +10,7 @@ I'm what you get when you cross a hippie education with a geeky mentality; someo
 
 I have more than 12 years of experience in planning and executing qualitative research. I have mostly done this while doing my MA and Phd in Social Anthropology, but I have also worked in NGOs and as a consultant. 
 
-A big part of university research is about getting it funded in the first place. Both my Masters and PhD were fully funded and afterwards I managed to secure the prestigious [British Academy Newton International Fellowship] (https://www.thebritishacademy.ac.uk/newton-international-fellowships-2016-awards-list). 
+A big part of university research is about getting it funded in the first place. Both my Masters and PhD were fully funded and afterwards I managed to secure the prestigious [British Academy Newton International Fellowship](https://www.thebritishacademy.ac.uk/newton-international-fellowships-2016-awards-list). 
 
 #### Communication
 
@@ -41,14 +41,14 @@ At the moment, I'm starting to look at how programming languages are "spoken", a
 
 - Postdoctoral research on linguistic and social anthropology
 - Basically, I tried to come up with an alternative (non-western) way of thinking about language based on my experience with linguistic aspects of Amerindian songs. 
-    - Not sure if I was successful yet, but [this publication] (https://www.sciencedirect.com/journal/language-and-communication/vol/63/suppl/C) seems to be getting a lot of attention. 
+    - Not sure if I was successful yet, but [this publication](https://www.sciencedirect.com/journal/language-and-communication/vol/63/suppl/C) seems to be getting a lot of attention. 
 
 #### Museu Nacional, Rio de Janeiro - Brazil (Mar '09 to Dec '15)
 
 - I did both my MA and my PhD here, where I studied social anthropology and focused on:
       - Amazonia, ritual singing, linguistic anthropology, kinship, drunkeness, and social uses of technology. 
 
-- If you read portuguese and want to read something about the people I worked with – the Araweté – you might want to check [this] (https://www.sescsp.org.br/online/edicoes-sesc/512_ARAWETE+UM+POVO+TUPI+DA+AMAZONIA#/tagcloud=lista) and [this] (https://revistacult.uol.com.br/home/palavras-quebradas-na-poetica-arawete/) out.
+- If you read portuguese and want to read something about the people I worked with – the Araweté – you might want to check [this](https://www.sescsp.org.br/online/edicoes-sesc/512_ARAWETE+UM+POVO+TUPI+DA+AMAZONIA#/tagcloud=lista) and [this](https://revistacult.uol.com.br/home/palavras-quebradas-na-poetica-arawete/) out.
 
 ## Experience
 
