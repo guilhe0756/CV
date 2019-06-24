@@ -2,16 +2,18 @@
 ---
    [Background](#back) | [Projects](#proj) | [Skills](#skills) | [Experience](#exp) | [Education](#edu) | [Interests](#int) | [Publications](#pub)
 
-I'm what you get when you cross a hippie education with a geeky mentality; someone curious about people and their relationship with technology. I have lived with Amazonian shamans and tried to grasp their use of flash drives ([I'm serious!](https://www.academia.edu/38627418/The_Shaman_and_the_Flash_Drive), and now I wish to code my way into the relationship between humans and machines. Ideally, I'd be working to finish this joke: "Two algorithms walk into the deep web..."
+I'm what you get when you cross a hippie education with a geeky mentality; someone curious about people and their relationship with technology. I have lived with Amazonian shamans and tried to grasp their use of flash drives ([I'm serious!](https://www.academia.edu/38627418/The_Shaman_and_the_Flash_Drive), and now I wish to code my way into the relationship between humans and machines.
 
 ---
 ## Background
 
-## Projects
+## <a name="#proj">Projects</a>
 
 |Title            |Description                        |Development Timeframe|Technologies Used|CI/CD/Testing|
 |:---------------:|:---------------------------------:|:---------:|:-------------------------:|:-------------------------:|
 |[Guac-a-mole](https://github.com/guilhe0756/guac-a-mole)| As our final project at Makers, my group and I chose to build a game. We built a 2d Whack-a-mole game from scratch while learning completely new technologies such as Unity and C#. Given that we only had 6 days to code this, we were very proud with what we [ended up with.](https://play.google.com/store/apps/details?id=com.GuacaMole.WhackaMole)| 2 weeks | C#, Unity 3D | Unity Cloud Build/Unity Test Runner(NUnit)|
+|[Your Random Chomsky](https://github.com/guilhe0756/your-random-chomsky-js)|Have you ever woken up to the feeling 'I need to read a meaningless random sentence inspired by Noam Chomsky's book Syntactic Structures RIGHT NOW!' Well, of course not. BUT NOW YOU CAN! An alternative version of this project, in Ruby, is [here](https://github.com/guilhe0756/random-chomsky-generator).| 3 weeks | Javascript, Express | Circle CI, Jasmine, Istanbul, Nightwatch|
+|[Command line bowling](https://github.com/guilhe0756/bowling-challenge)| On my take on this classic challenge, I choose to write a node.js command line version of the bowling challenge.| 24 hours | Javascript | Jasmine, Istanbul|
 
 ## Skills {#skills}
 
@@ -63,7 +65,8 @@ At the moment, I'm starting to look at how programming languages are "spoken", a
 *Languages*: Ruby, JavaScript, C#, Python, Lua;
 *Web Frameworks*: Sinatra, Express, Ruby on Rails;
 *Databases*: PostgreSQL (including Active Record);
-*CI/CD*: Travis CI, Codacy, Unity Cloud Build, Heroku;
+*CI/CD*: Travis CI, Unity Cloud Build, Heroku;
+*Code Quality, Coverage*: Rubocop, Istanbul, Eslint, Codacy;
 *Game engines*: Unity 3D
 
 #### Museu Nacional, Rio de Janeiro - Brazil (Mar '09 to Dec '15)
