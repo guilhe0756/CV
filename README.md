@@ -1,13 +1,13 @@
 #                                                      Gui Heurich
 ---
-   [Background](#back) | [Projects](#projects) | [Skills](#skills) | [Experience](#exp) | [Education](#edu) | [Interests](#int) | [Publications](#pub)
+   [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Publications](#publications)
 
 I'm what you get when you cross a hippie education with a geeky mentality; someone curious about people and their relationship with technology. I have lived with Amazonian shamans and tried to grasp their use of flash drives ([I'm serious!](https://www.academia.edu/38627418/The_Shaman_and_the_Flash_Drive), and now I wish to code my way into the relationship between humans and machines.
 
 ---
-## Background
+## <a name="background">Background</a>
 
-## <a name="#projects">Projects</a>
+## <a name="projects">Projects</a>
 
 |Title            |Description                        |Development Timeframe|Technologies Used|CI/CD/Testing|
 |:---------------:|:---------------------------------:|:---------:|:-------------------------:|:-------------------------:|
@@ -15,7 +15,7 @@ I'm what you get when you cross a hippie education with a geeky mentality; someo
 |[Your Random Chomsky](https://github.com/guilhe0756/your-random-chomsky-js)|Have you ever woken up to the feeling 'I need to read a meaningless random sentence inspired by Noam Chomsky's book Syntactic Structures RIGHT NOW!' Well, of course not. BUT NOW YOU CAN! An alternative version of this project, in Ruby, is [here](https://github.com/guilhe0756/random-chomsky-generator).| 3 weeks | Javascript, Express | Circle CI, Jasmine, Istanbul, Nightwatch|
 |[Command line bowling](https://github.com/guilhe0756/bowling-challenge)| On my take on this classic challenge, I choose to write a node.js command line version of the bowling challenge.| 24 hours | Javascript | Jasmine, Istanbul|
 
-## Skills
+## <a name="skills">Skills</a>
 
 ### Research
 
@@ -42,7 +42,7 @@ Thinking and practicing language is one of my favourite things. I have a good kn
 
 At the moment, I'm starting to look at how programming languages are "spoken", and I wonder why so many are written in English. 
 
-## Experience
+## <a name="experience">Experience</a>
 
 **University College London** (Nov '16 to Feb '19)
 
@@ -51,10 +51,11 @@ At the moment, I'm starting to look at how programming languages are "spoken", a
     - Not sure if I was successful yet, but [this publication](https://www.sciencedirect.com/journal/language-and-communication/vol/63/suppl/C) seems to be getting a lot of attention.
 
 **Frameworks** (Mar '15 to Sep '15)
-*Junior Researcher*  
-   Research project on Climate Change in Brazil, for which I conducted interviews with scientific experts and with the general public. 
 
-## Education
+- I worked as a researcher on a project about Climate Change in Brazil. 
+- I conducted interviews with scientific experts and with the general public. 
+
+## <a name="education">Education</a>
 
 #### Makers Academy (March '19 to June '19)
 
