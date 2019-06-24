@@ -1,11 +1,13 @@
 #                                                      Gui Heurich
 ---
-   [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Publications](#publications)
+   [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-I'm what you get when you cross a hippie education with a geeky mentality; someone curious about people and their relationship with technology. I have lived with Amazonian shamans and tried to grasp their use of flash drives ([I'm serious!](https://www.academia.edu/38627418/The_Shaman_and_the_Flash_Drive), and now I wish to code my way into the relationship between humans and machines.
+I'm what you get when you cross a hippie education with a geeky mentality; someone curious about people and their relationship with technology. I have lived with Amazonian shamans and tried to grasp their use of flash drives ([I'm serious!](https://www.academia.edu/38627418/The_Shaman_and_the_Flash_Drive), and now I wish to code my way into the relationship between humans and machines. I am passionate about coding, for it blends my lifelong interest in the multiple shapes of human languages – their syntax, sense, and sound – to a digital environment in which I have felt confortable for a long time. 
 
 ---
 ## <a name="background">Background</a>
+
+After graduating in 2008, I pursued an academic career for ten years, in which I focused on the social relations of South American Indigenous societies. I lived with the Araweté – a small Amazonian people – for 16 months in the Brazilian Amazon, an experience that allowed me to write a PhD on the Araweté's conceptualisations of the relationship between humans and non-human entities (gods, spirits, and animals). I moved to London in 2016 to do research, but grew increasingly uninterested in an academic career, which lead me to pursue an interest in coding.
 
 ## <a name="projects">Projects</a>
 
@@ -77,3 +79,6 @@ At the moment, I'm starting to look at how programming languages are "spoken", a
 
 - If you read portuguese and want to read something about the people I worked with – the Araweté – you might want to check [this](https://www.sescsp.org.br/online/edicoes-sesc/512_ARAWETE+UM+POVO+TUPI+DA+AMAZONIA#/tagcloud=lista) and [this](https://revistacult.uol.com.br/home/palavras-quebradas-na-poetica-arawete/) out.
 
+## <a name="interests">Interests</a>
+
+Yoga, playing the Guitar, writing poetry in English and Portuguese, translating Araweté songs.
