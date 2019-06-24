@@ -15,7 +15,7 @@ I'm what you get when you cross a hippie education with a geeky mentality; someo
 |[Your Random Chomsky](https://github.com/guilhe0756/your-random-chomsky-js)|Have you ever woken up to the feeling 'I need to read a meaningless random sentence inspired by Noam Chomsky's book Syntactic Structures RIGHT NOW!' Well, of course not. BUT NOW YOU CAN! An alternative version of this project, in Ruby, is [here](https://github.com/guilhe0756/random-chomsky-generator).| 3 weeks | Javascript, Express | Circle CI, Jasmine, Istanbul, Nightwatch|
 |[Command line bowling](https://github.com/guilhe0756/bowling-challenge)| On my take on this classic challenge, I choose to write a node.js command line version of the bowling challenge.| 24 hours | Javascript | Jasmine, Istanbul|
 
-## Skills {#skills}
+## Skills
 
 ### Research
 
