@@ -1,13 +1,13 @@
 #                                                      Gui Heurich
 ---
-   [Background](#back) | [Projects](#proj) | [Skills](#skills) | [Experience](#exp) | [Education](#edu) | [Interests](#int) | [Publications](#pub)
+   [Background](#back) | [Projects](#projects) | [Skills](#skills) | [Experience](#exp) | [Education](#edu) | [Interests](#int) | [Publications](#pub)
 
 I'm what you get when you cross a hippie education with a geeky mentality; someone curious about people and their relationship with technology. I have lived with Amazonian shamans and tried to grasp their use of flash drives ([I'm serious!](https://www.academia.edu/38627418/The_Shaman_and_the_Flash_Drive), and now I wish to code my way into the relationship between humans and machines.
 
 ---
 ## Background
 
-## <a name="#proj">Projects</a>
+## <a name="#projects">Projects</a>
 
 |Title            |Description                        |Development Timeframe|Technologies Used|CI/CD/Testing|
 |:---------------:|:---------------------------------:|:---------:|:-------------------------:|:-------------------------:|
