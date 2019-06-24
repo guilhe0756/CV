@@ -1,6 +1,6 @@
-#                                                      Gui Heurich
+# Gui Heurich
 ---
-   [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+[Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
 I'm what you get when you cross a hippie education with a geeky mentality; someone curious about people and their relationship with technology. I have lived with Amazonian shamans and tried to grasp their use of flash drives ([I'm serious!](https://www.academia.edu/38627418/The_Shaman_and_the_Flash_Drive), and now I wish to code my way into the relationship between humans and machines. I am passionate about coding, for it blends my lifelong interest in the multiple shapes of human languages – their syntax, sense, and sound – to a digital environment in which I have felt confortable for a long time. 
 
@@ -16,6 +16,8 @@ After graduating in 2008, I pursued an academic career for ten years, in which I
 |[Guac-a-mole](https://github.com/guilhe0756/guac-a-mole)| As our final project at Makers, my group and I chose to build a game. We built a 2d Whack-a-mole game from scratch while learning completely new technologies such as Unity and C#. Given that we only had 6 days to code this, we were very proud with what we [ended up with.](https://play.google.com/store/apps/details?id=com.GuacaMole.WhackaMole)| 2 weeks | C#, Unity 3D | Unity Cloud Build/Unity Test Runner(NUnit)|
 |[Your Random Chomsky](https://github.com/guilhe0756/your-random-chomsky-js)|Have you ever woken up to the feeling 'I need to read a meaningless random sentence inspired by Noam Chomsky's book Syntactic Structures RIGHT NOW!' Well, of course not. BUT NOW YOU CAN! An alternative version of this project, in Ruby, is [here](https://github.com/guilhe0756/random-chomsky-generator).| 3 weeks | Javascript, Express | Circle CI, Jasmine, Istanbul, Nightwatch|
 |[Command line bowling](https://github.com/guilhe0756/bowling-challenge)| On my take on this classic challenge, I choose to write a node.js command line version of the bowling challenge.| 24 hours | Javascript | Jasmine, Istanbul|
+
+Please check my [Github repository](https://github.com/guilhe0756) for more projects. 
 
 ## <a name="skills">Skills</a>
 
